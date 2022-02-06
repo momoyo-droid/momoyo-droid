@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="momoyo-droid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-
+<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://user-images.githubusercontent.com/68512242/152677017-75a369f0-218c-4967-a8c2-a3730673e0bb.png" target="_blank"></a>
 <br />
 
 ### Languages and Tools:
@@ -18,7 +18,6 @@
 <div style="display: inline_block"><br> 
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-     <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br />
