@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Ana - aka [Momoyo] 👋 
 
-<!--
-**momoyo-droid/momoyo-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Teacher's Assistant!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 
+- 👯 I currently teach Brazilian public high school girls to program in python
+- 🥅 2022 Goals: Get an internship
+- ⚡ Fun fact: I have a dog called "Peludinho"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="momoyo-droid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+<div style="display: inline_block"><br> 
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/ana-de-oliveira-a76027198/
