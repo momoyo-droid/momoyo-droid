@@ -1,5 +1,8 @@
 ### Hi, I'm Momoyo  <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Hi.gif" width="25px">
 
+<img align="right" alt="PC GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/female.gif" width="190px" />
+
+
 ## I'm a Student and Teacher's Assistant!
 
 - 🌱 I’m currently learning everything 
