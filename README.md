@@ -10,7 +10,9 @@
     A budding software developer and enthusiastic student of information security <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/PC.gif" width="20px">. Passionate about learning.
   </em>  
 </p>
+
 <br>
+
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/powerup.gif"  width="20px" /> **pronouns** she/her
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Developer.gif"  width="20px" /> often coding or studying something new
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/happy.gif"  width="20px" /> making new friends
