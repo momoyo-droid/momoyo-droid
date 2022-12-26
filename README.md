@@ -18,7 +18,7 @@
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/happy.gif"  width="20px" /> making new friends
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/duende.gif"  width="20px" /> always playing soccer
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Rocket.gif"  width="20px" /> always positive thoughts
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/medal.gif"  width="20px" /> **fun fact** I have a dog called "Peludinho"
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Medal.gif"  width="20px" /> **fun fact** I have a dog called "Peludinho"
 
 
 
