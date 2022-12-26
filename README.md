@@ -1,4 +1,4 @@
-### Hi there, I'm Ana - aka [Momoyo] 👋 
+### Hi, I'm Momo <img src="https://giphy.com/embed/jSv2breEnJU0o" width=30px>
 
 ## I'm a Student and Teacher's Assistant!
 
