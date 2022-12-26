@@ -4,11 +4,12 @@
 
 
 ## Hello World! <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Earth.gif" width="25px">
-
-- 🌱 I’m currently learning everything 
-- 👯 I currently teach Brazilian public high school girls to program in python
-- 🥅 2022 Goals: Get an internship
-- ⚡ Fun fact: I have a dog called "Peludinho"
+<p>
+  <em>
+    I am a 4rd Year undergraduate (BSc. Computer Science) from <a href="https://www5.usp.br/"> <b>University of Sao Paulo</b>, Sao Carlos Campus</a>.  
+    A budding software developer and enthusiastic student of information security <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/PC.gif" width="20px">. Passionate about learning.
+  </em>  
+</p>
 
 ### Connect with me:
 
