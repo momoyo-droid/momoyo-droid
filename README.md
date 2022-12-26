@@ -6,7 +6,7 @@
 ## Hello World! <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Earth.gif" width="25px">
 <p>
   <em>
-    I am a 4rd Year undergraduate (BSc. Computer Science) from <a href="https://www5.usp.br/"> <b>University of Sao Paulo</b>, Brazil</a>.  
+    I am a 4th Year undergraduate (BSc. Computer Science) at <a href="https://www5.usp.br/"> <b>University of Sao Paulo</b>, Brazil</a>.  
     A budding software developer and enthusiastic student of information security <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/PC.gif" width="20px">. Passionate about learning.
   </em>  
 </p>
@@ -16,7 +16,7 @@
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/powerup.gif"  width="27px" /> **pronouns** she/her
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/dev.gif"  width="27px" /> often coding or studying something new
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/hpp.gif"  width="27px" /> making new friends
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/casimi.gif"  width="27px" /> always playing soccer
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/casimi.gif"  width="27px" /> always playing football
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Rocket.gif"  width="27px" /> always positive thoughts
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Medal.gif"  width="27px" /> **fun fact** I have a dog called "Peludinho"
 
