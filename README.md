@@ -13,12 +13,12 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/powerup.gif"  width="30px" /> **pronouns** she/her
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/dev.gif"  width="30px" /> often coding or studying something new
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/hpp.gif"  width="30px" /> making new friends
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/casimi.gif"  width="30px" /> always playing soccer
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Rocket.gif"  width="30px" /> always positive thoughts
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Medal.gif"  width="30px" /> **fun fact** I have a dog called "Peludinho"
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/powerup.gif"  width="27px" /> **pronouns** she/her
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/dev.gif"  width="27px" /> often coding or studying something new
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/hpp.gif"  width="27px" /> making new friends
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/casimi.gif"  width="27px" /> always playing soccer
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Rocket.gif"  width="27px" /> always positive thoughts
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Medal.gif"  width="27px" /> **fun fact** I have a dog called "Peludinho"
 
 
 
