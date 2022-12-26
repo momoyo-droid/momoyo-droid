@@ -3,7 +3,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/female.gif" width="190px" />
 
 
-## I'm a Student and Teacher's Assistant!
+## Hello World! <img src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Earth.gif" width="25px">
 
 - 🌱 I’m currently learning everything 
 - 👯 I currently teach Brazilian public high school girls to program in python
