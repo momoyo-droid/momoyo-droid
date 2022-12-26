@@ -14,9 +14,9 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/powerup.gif"  width="20px" /> **pronouns** she/her
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Developer.gif"  width="20px" /> often coding or studying something new
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/happy.gif"  width="20px" /> making new friends
-- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/duende.gif"  width="20px" /> always playing soccer
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/dev.gif"  width="20px" /> often coding or studying something new
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/hpp.gif"  width="20px" /> making new friends
+- <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/casimi.gif"  width="20px" /> always playing soccer
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Rocket.gif"  width="20px" /> always positive thoughts
 - <img alt="GIF" src="https://github.com/momoyo-droid/momoyo-droid/blob/main/Assets/Medal.gif"  width="20px" /> **fun fact** I have a dog called "Peludinho"
 
