@@ -1,4 +1,4 @@
-### Hi, I'm Momo <img src="https://github.com/momoyo-droid/momoyo-droid/tree/main/Assets/black.gif" width=30px>
+### Hi, I'm Momo <img src="https://github.com/momoyo-droid/momoyo-droid/tree/main/Assets/black.gif" width=300px>
 
 ## I'm a Student and Teacher's Assistant!
 
